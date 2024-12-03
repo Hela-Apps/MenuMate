@@ -1,0 +1,7 @@
+.modal-button {
+    position: absolute; /* Make the button absolutely positioned within the modal */
+    top: 0; /* Position it at the top */
+    right: 0; /* Position it at the right */
+    /* Add some margin for spacing (optional) */
+    margin: 10px;
+  }
