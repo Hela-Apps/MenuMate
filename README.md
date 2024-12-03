@@ -30,4 +30,4 @@ To set up Menu-Mate locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Chamaxonline/MenuMate.git
+   git clone https://github.com/Hela-Apps/MenuMate.git
